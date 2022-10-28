@@ -89,4 +89,13 @@ target="_blank">
 </a>
 {%- endif -%}
 
+{%- if site.googlescholar -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'Google Scholar' }}"
+class="social-button"
+href="https://scholar.google.com/{{ site.googlescholar }}" 
+target="_blank">
+<img class="fab" src="assets/images/icon-google-scholar.svg"></img>
+</a>
+{%- endif -%}
+
 </div>

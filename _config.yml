@@ -5,7 +5,7 @@ description: Ph.D. student in Computer Science at North Carolina State Universit
 
 baseurl: ""
 url: "https://lizhouyu.github.io"
-email: #
+email: zli85@ncsu.edu
 
 # Pagination
 paginate: 4
@@ -14,14 +14,15 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 #twitter: "#"
-linkedin: "#"
+linkedin: "zhouyu-li-b09b32112"
 #stackoverflow: "#"
-github: "#"
+github: "lizhouyu"
 #researchgate: "#"
 #orcid: "#"
 #quora: "#"
 #instagram: "#"
 #facebook: "#"
+googlescholar: "citations?user=4rarBngAAAAJ"
 
 
 # Markdown
