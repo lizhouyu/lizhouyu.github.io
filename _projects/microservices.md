@@ -2,5 +2,5 @@
 layout: post
 title: Microservices
 description: Benchmarking Microservice-based Distributed Application
-redirect: https://people.engr.ncsu.edu/ryu5/project_wolfpack.php
+redirect: https://ncsu-microservice-benchmarking.github.io/Microservice-Profiling-with-Distributed-Tracing-and-Kubenetes/
 ---
