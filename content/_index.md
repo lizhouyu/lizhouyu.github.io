@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: IMG_20190715_195413.jpg
+          filename: IMG_20190715_195359.jpg
           filters:
             brightness: 1.0
           size: cover
