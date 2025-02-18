@@ -15,6 +15,6 @@ date: '2021-01-01'
 publishDate: '2025-02-18T04:38:21.971995Z'
 publication_types:
 - paper-conference
-publication: '*The 34th Annual ACM Symposium on User Interface Software and Technology*'
+publication: '*The 34th Annual ACM Symposium on User Interface Software and Technology* (*Both authors contributed equally to this research.)'
 note: '*Both authors contributed equally to this research.'
 ---
