@@ -3,7 +3,7 @@
 title: 李周宇
 
 # Name pronunciation (optional)
-name_pronunciation: Zhouyu Li
+name_pronunciation: li chou yü
 
 # Full name (for SEO)
 first_name: Zhouyu
@@ -11,7 +11,7 @@ last_name: Li
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -73,7 +73,7 @@ education:
     date_start: 2015-09-01
     date_end: 2019-06-30
     summary: |
-      Thesis supervised by Dr. Guoming Zhi.
+      Thesis supervised by Dr. Guoming Zhi.  
       Member of Yunlu Robocup Team supervised by [Dr. Jun Peng](https://faculty.csu.edu.cn/pengjun1/en/index.htm)
 work:
   - position: Winter Intern
