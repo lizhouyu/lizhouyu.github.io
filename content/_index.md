@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: large-triangles.svg
+          filename: IMG_20190715_195413.jpg
           filters:
             brightness: 1.0
           size: cover
