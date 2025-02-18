@@ -164,7 +164,3 @@ work:
 ## About Me
 
 My name is Zhouyu Li. I am a Ph.D. student at the Computer Science Department of [North Carolina State University](https://www.ncsu.edu/), advised by [Dr. Ruozhou Yu](https://people.engr.ncsu.edu/ryu5/). Before coming to NCSU, I received my Master’s degree in Electrical Engineering at Georgia Institute of Technology, advised by [Dr. Sauvik Das](https://sauvikdas.com/). I received my Bachelor’s degree in Electronic Information Engineering at Central South University under the supervision of [Dr. Jun Peng](https://faculty.csu.edu.cn/pengjun1/en/index.htm) and Dr. Guoming Zhi.  
-
-Generally, I am devoted to building easy-to-use, efficient, and secure communication systems that bring people closer to each other. 
-
-I am also leading the [Microservice Benchmarking](https://ncsu-microservice-benchmarking.github.io/Microservice-Profiling-with-Distributed-Tracing-and-Kubernetes/) project, which aims to provide a comprehensive benchmarking suite for microservice-based distributed systems.

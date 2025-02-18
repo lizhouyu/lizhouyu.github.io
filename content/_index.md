@@ -35,11 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Generally, I am devoted to building easy-to-use, efficient, and secure communication systems that bring people closer to each other. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I am also leading the [Microservice Benchmarking](https://ncsu-microservice-benchmarking.github.io/Microservice-Profiling-with-Distributed-Tracing-and-Kubernetes/) project, which aims to provide a comprehensive benchmarking suite for microservice-based distributed systems.  
     design:
       columns: '1'
   - block: collection
