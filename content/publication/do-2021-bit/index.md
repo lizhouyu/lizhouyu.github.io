@@ -17,4 +17,5 @@ publication_types:
 - paper-conference
 publication: '*The 34th Annual ACM Symposium on User Interface Software and Technology* (*Both authors contributed equally to this research.)'
 note: '*Both authors contributed equally to this research.'
+url_video: 'https://youtu.be/8zQGbK82zII?si=9yvfizGSd7TT7UoX'
 ---
