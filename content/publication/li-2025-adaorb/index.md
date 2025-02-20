@@ -1,21 +1,28 @@
 ---
-title: "AdaOrb: Adapting In-Orbit Analytics Models for Location-aware Earth Observation Tasks"
+title: 'AdaOrb: Adapting In-Orbit Analytics Models for Location-aware Earth Observation Tasks'
 authors:
-- admin
-date: "2025-02-10T00:00:00Z"
-doi: ""
+- Zhouyu Li, 
+- Pinxiang Wang 
+- Xiaochun Liang 
+- Xuanhao Luo
+- Yuchen Liu
+- Xiaojian Wang
+- Huayue Gu
+- Ruozhou Yu
+date: '2025-02-10T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-03-20T00:00:00Z"
+publishDate: '2025-03-20T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["paper-conference"]
+publication_types:
+- paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: "Pervasive Computing and Communications"
-publication_short: "PerCom 2025"
+publication: 'Pervasive Computing and Communications'
+publication_short: 'PerCom 2025'
 
 abstract: Satellite-based Earth observation provides aerial views of vast areas for various monitoring and analytics applications. The rapid growth in low-Earth-orbit satellites enables providing Earth observation applications to public users via a shared platform. However, the limited satellite-ground communication resources present a major challenge in downlinking and fully utilizing satellite-captured Earth observation data on the ground. As a new edge computing paradigm, orbital edge computing enables deploying lightweight deep learning models with satellite on-board computing resources for in-orbit data analysis, reducing downlink data volume and response time. However, the limited generalizability of lightweight in-orbit models and significant data distribution shifts across geographical locations on Earth severely impact the accuracy of in-orbit analytics. In this work, we design a framework, AdaOrb, which dynamically schedules model adaptation for location-specific Earth observation tasks. The adaptation is achieved via model retraining using online captured in-orbit data. Scheduling decisions are made with a model predictive control model that allocates limited downlink capacity for retraining data across onboard tasks. By developing and using a hardware-in-the-loop orbital edge computing testbed, we show that our methods achieve superior overall accuracy of in-orbit analytics tasks compared to alternative methods.
 
@@ -25,19 +32,19 @@ summary:
 tags:
 - Orbital Edge Computing
 
-featured: false
+# featured: false
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# links:
+# - name: Custom Link
+#   url: http://example.org
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
