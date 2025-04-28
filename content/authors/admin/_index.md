@@ -3,7 +3,7 @@
 title: 李周宇
 
 # Name pronunciation (optional)
-name_pronunciation: li chou yü
+name_pronunciation: Li Zhou yu
 
 # Full name (for SEO)
 first_name: Zhouyu
